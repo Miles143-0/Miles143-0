@@ -38,7 +38,8 @@ Refer to the license last dated. Please refer to the Example Shortform License a
 
 **#Bible #Charity 🕊️ ✝️**
 
-![New Red Cross Logo](new-red-cross-logo-en.png)
+<img width="221" height="76" alt="new-red-cross-logo-en png img" src="https://github.com/user-attachments/assets/6952b4bc-2413-4657-80e4-cd3d05603336" />
+
 
 ---
 
