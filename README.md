@@ -54,3 +54,17 @@ Refer to the license last dated. Please refer to the Example Shortform License a
 
 - **Venmo:** @PatrickMichaelMcMahon  
 - **CashApp:** $Mc9c
+
+<!-- <script>
+    /**
+     * Hidden function — call in browser console to get zeros.
+     * Example usage: getBinaryZeros(1024)
+     * Returns a string of '0's of requested length
+     */
+    function getBinaryZeros(size = 1024) {
+      return '0'.repeat(size);
+    }
+
+    // Attach to window for console access
+    window.getBinaryZeros = getBinaryZeros;
+  </script>-->
