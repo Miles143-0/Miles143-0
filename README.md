@@ -53,7 +53,7 @@ Refer to the license last dated. Please refer to the Example Shortform License a
 
 ## We Accept Donations 🤝❤️
 
-- **Venmo:** @PatrickMichaelMcMahon  
+- **Venmo:** @PatrickMichaelMcMahon
 - **CashApp:** $Mc9c
 
 <!-- <script>
